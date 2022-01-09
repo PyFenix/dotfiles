@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luis.cap.queiros@gmail.com
+	name = Luis Queiros
